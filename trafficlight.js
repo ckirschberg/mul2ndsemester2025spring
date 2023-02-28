@@ -7,8 +7,9 @@ function switchLights() {
     // Write if else if statements, to go from red being active, to yellow being active, to green
     // and back to red.
     
+
     // The following will evaluate to true or false
-    red.classList.contains("active")
+    console.log(yellow.classList.contains("active"))
 
 
 }
