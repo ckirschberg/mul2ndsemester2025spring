@@ -13,5 +13,6 @@ function switchLights() {
 
 }
 
-document.getElementById('change-light').addEventListener('click', switchLights);
+document.getElementById('change-light')
+    .addEventListener('click', switchLights);
 
